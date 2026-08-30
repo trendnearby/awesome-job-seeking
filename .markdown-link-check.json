@@ -1,0 +1,8 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://gemini\\.google\\.com/?$"
+    }
+  ],
+  "aliveStatusCodes": [200, 403, 429]
+}
