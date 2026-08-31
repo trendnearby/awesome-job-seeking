@@ -4,11 +4,16 @@ A curated list of awesome job seeking resources
 
 ## 🗺️ Where are you at?
 
-* [Searching](#-search)
-* [Preparing](#-prepare)
-* [Applying](#-apply)
-* [Interviewing](#-interview)
-* [Offer](#-offer)
+```mermaid
+flowchart LR
+    A[🔍 Searching] --> B[📝 Preparing] --> C[📨 Applying] --> D[🎤 Interviewing] --> E[🤝 Offer]
+
+    click A "#-search"
+    click B "#-prepare"
+    click C "#-apply"
+    click D "#-interview"
+    click E "#-offer"
+```
 
 ## 🔍 Search
 
