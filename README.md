@@ -140,6 +140,14 @@ Use with care & for inspiration
 * [Salary.com](https://www.salary.com/) - Detailed salary comparison and compensation data.
 * [WageLark](https://wagelark.com/) - Free salary guides sourced from U.S. BLS government wage data, with a percentile tool to see where a given pay figure falls within an occupation's real range. No signup required.
 
+## Contributions
+
+<a href="https://github.com/yuhonas/awesome-job-seeking/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yuhonas/awesome-job-seeking" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## 🙌 Would like to Contribute?
 
 If you have something useful, we'd love your contribution
